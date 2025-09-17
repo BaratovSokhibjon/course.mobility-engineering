@@ -1,0 +1,8 @@
+{
+    "recommendations":[
+        "mathematic.vscode-pdf",
+        "pkief.material-icon-theme",
+        "ms-toolsai.jupyter-keymap",
+        "piotrpalarz.vscode-gitignore-generator"
+    ]
+}
