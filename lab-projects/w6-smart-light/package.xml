@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>py_smart_light</name>
+  <version>0.0.0</version>
+  <description>Smart Lighting example with motion sensor, controller and light actuator</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
