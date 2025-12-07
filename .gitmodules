@@ -1,0 +1,3 @@
+[submodule "projects/module.ros2-automation"]
+	path = projects/module.ros2-automation
+	url = https://github.com/BaratovSokhibjon/module.ros2-automation
